@@ -1,6 +1,6 @@
 {
 	"name": "liquidx-site-empty",
-	"version": "0.1.0",
+	"version": "0.1.20230506",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
